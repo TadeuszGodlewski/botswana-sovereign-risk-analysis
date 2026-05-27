@@ -1,6 +1,6 @@
-# botswana-sovereign-risk-analysis
-Sovereign risk and macroeconomic investment analysis of Botswana using Excel-based data modeling.
 # Botswana Sovereign Risk & Macroeconomic Investment Analysis
+
+Sovereign risk and macroeconomic investment analysis of Botswana using Excel-based data modeling.
 
 ## Overview
 This project evaluates Botswana as a medium- to long-term investment opportunity using sovereign risk, macroeconomic, institutional, and commodity-exposure analysis.
@@ -30,4 +30,4 @@ This project evaluates Botswana as a medium- to long-term investment opportunity
 
 ## Files
 - `Botswana-Sovereign-Risk-Analysis.pdf` — final written report
-- `Botswana-Data-Analysis.xlsx` — Excel workbook with data, charts, and calculations
+- `Botswana-Sovereign-Risk-Data-Analysis.xlsx` — Excel workbook with data, charts, and calculations
