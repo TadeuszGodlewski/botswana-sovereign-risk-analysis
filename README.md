@@ -29,5 +29,5 @@ This project evaluates Botswana as a medium- to long-term investment opportunity
 - Diamond price index data
 
 ## Files
-- `Botswana-Country-Risk-Report.pdf` — final written report
+- `Botswana-Sovereign-Risk-Analysis.pdf` — final written report
 - `Botswana-Data-Analysis.xlsx` — Excel workbook with data, charts, and calculations
