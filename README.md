@@ -20,7 +20,7 @@ This project evaluates Botswana as a medium- to long-term investment opportunity
 - Currency and commodity-risk analysis
 - Excel-based data visualization
 
-## Tools
+## Tools & Data Sources
 - Microsoft Excel
 - World Bank Open Data
 - Bank of Botswana data
